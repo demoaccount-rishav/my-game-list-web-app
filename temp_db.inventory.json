@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "660e486d484951fce07a34a9"
+  },
+  "uid": "g2pc9dr0lukuv29c",
+  "name": "Grand Theft Auto VI",
+  "desc": "Grand Theft Auto VI is an upcoming video game in development by Rockstar Games. It is due to be the eighth main Grand Theft Auto game, following Grand Theft Auto V, and the sixteenth entry overall",
+  "price": "1499",
+  "imageUrl": "images/imageUrl-1712212077357-438301928gta6.avif"
+},
+{
+  "_id": {
+    "$oid": "660e488b484951fce07a34aa"
+  },
+  "uid": "g2pc9dr0lukuvpmx",
+  "name": "Grand Theft Auto: Vice City",
+  "desc": "Grand Theft Auto: Vice City is a 2002 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the fourth main game in the Grand Theft Auto series, following 2001's Grand Theft Auto III, and the sixth entry overall",
+  "price": "29",
+  "imageUrl": "images/imageUrl-1712212107654-15598920681ralwlkisL.jpg"
+},
+{
+  "_id": {
+    "$oid": "660e48ef484951fce07a34ab"
+  },
+  "uid": "g2pc9dr0lukuxugv",
+  "name": "Grand Theft Auto: San Andreas",
+  "desc": "Grand Theft Auto: San Andreas is a 2004 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh title in the Grand Theft Auto series, following 2002's Grand Theft Auto: Vice City",
+  "price": "49",
+  "imageUrl": "images/imageUrl-1712212207227-472484730633abd2468e87731256436d0-grand-theft-auto-san-andreas-xbox-one.jpg"
+},
+{
+  "_id": {
+    "$oid": "660e4928484951fce07a34ac"
+  },
+  "uid": "g2pc9dr0lukuz2rq",
+  "name": "Grand Theft Auto V",
+  "desc": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall",
+  "price": "899",
+  "imageUrl": "images/imageUrl-1712212264644-36057663171biTWXVvGS.jpg"
+},
+{
+  "_id": {
+    "$oid": "660e4950484951fce07a34ad"
+  },
+  "uid": "g2pc9dr0lukuzxsp",
+  "name": "Grand Theft Auto IV",
+  "desc": "Grand Theft Auto IV is a 2008 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the sixth main entry in the Grand Theft Auto series, following 2004's Grand Theft Auto: San Andreas, and the eleventh instalment overall",
+  "price": "499",
+  "imageUrl": "images/imageUrl-1712212304853-34764140771DtdU11olL.jpg"
+},
+{
+  "_id": {
+    "$oid": "660e4971484951fce07a34ae"
+  },
+  "uid": "g2pc9dr0lukv0n9u",
+  "name": "Battlefield: Bad Company 2",
+  "desc": "Battlefield: Bad Company 2 is a first-person shooter video game developed by DICE and published by Electronic Arts for Microsoft Windows, PlayStation 3, Xbox 360, iOS, Android and Kindle Fire systems. It is a direct sequel to Battlefield: Bad Company and is part of the Battlefield game series",
+  "price": "199",
+  "imageUrl": "images/imageUrl-1712212337871-94367765971Y4dtPFjtL.jpg"
+},
+{
+  "_id": {
+    "$oid": "660e49ab484951fce07a34af"
+  },
+  "uid": "g2pc9dr0lukv1w0c",
+  "name": "Call of Duty: World at War",
+  "desc": "Call of Duty: World at War is a 2008 first-person shooter game developed by Treyarch and published by Activision. It is the fifth main installment of the Call of Duty series and is the fourth entry in the series to be set during World War II",
+  "price": "99",
+  "imageUrl": "images/imageUrl-1712212395849-430335853codwaw.jpg"
+},
+{
+  "_id": {
+    "$oid": "660e49d0484951fce07a34b0"
+  },
+  "uid": "g2pc9dr0lukv2o59",
+  "name": "Cricket 07",
+  "desc": "Cricket 07 is a 2006 cricket simulation computer game developed by EA Canada and HB Studios and published by EA Sports. It is available for Microsoft Windows and PlayStation 2. The game was released on 26 November 2006 in Europe and in Australia on 14 November 2006",
+  "price": "59",
+  "imageUrl": "images/imageUrl-1712212548471-37250740Cricket07.png"
+}]

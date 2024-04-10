@@ -1,0 +1,23 @@
+<h1 class="mt-5 mb-4">Update Product</h1>
+<form action="/update-product" method="post" enctype="multipart/form-data">
+    <input type="hidden" class="form-control" id="uid" name="uid" value="<%= product.uid %>">
+
+    <div class="mb-3">
+        <label for="name" class="form-label">Product Name</label>
+        <input type="text" class="form-control" id="name" autocomplete="off" name="name" value="<%= product.name %>">
+    </div>
+    <div class="mb-3">
+        <label for="desc" class="form-label">Product Description</label>
+        <textarea class="form-control" id="desc" autocomplete="off" name="desc" rows="3"><%= product.desc %></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="price" class="form-label">Price</label>
+        <input type="text" class="form-control" id="price" autocomplete="off" name="price" value="<%= product.price %>">
+    </div>
+    <div class="mb-3">
+        <label for="imageUrl" class="form-label">Image URL</label>
+        <input type="file" class="form-control" id="imageUrl" autocomplete="off" name="imageUrl"
+            accept="image/png, image/gif, image/jpeg, image/jpg" required>
+    </div>
+    <button type="submit" class="btn btn-success">Update</button>
+</form>
