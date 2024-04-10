@@ -1,1 +1,4 @@
 node_modules/
+MongoDB Atlas.txt
+package-lock.json
+temp_db.inventory.json
